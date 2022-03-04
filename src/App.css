@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.margin-10{
+  margin-top: 10vh;
+}
+
+.product-list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card-list{
+  margin: 20px !important;
+}
+
+.card-main{
+  height: 450px !important;
+}
+
+.img-cont{
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-2{
+  width: 200px !important;
+  height: 300px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
